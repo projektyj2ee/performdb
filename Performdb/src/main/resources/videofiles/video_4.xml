@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+	<title>Potato v Carrot</title>
+	<type>VEGETABLE_MATCH</type>
+	<path>rtmp://cp1234.performgroup.com/video/potato_v_carrot.flv</path>
+	<keywordSet>
+		<keyword>Potato</keyword>
+		<keyword>Carrot</keyword>
+		<keyword>Vegetables</keyword>
+	</keywordSet>
+</video>

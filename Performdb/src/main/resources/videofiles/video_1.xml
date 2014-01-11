@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+	<title>Apples v Pears</title>
+	<type>FRUIT_MATCH</type>
+	<path>rtmp://cp1234.performgroup.com/video/apples_v_pears.flv</path>
+	<keywordSet>
+		<keyword>Apples</keyword>
+		<keyword>Pears</keyword>
+		<keyword>Fruits</keyword>
+	</keywordSet>
+</video>

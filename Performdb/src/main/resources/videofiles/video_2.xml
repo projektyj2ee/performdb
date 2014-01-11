@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+	<title>Peaches v Plum</title>
+	<type>FRUIT_MATCH</type>
+	<path>rtmp://cp1234.performgroup.com/video/plum_v_peaches.flv</path>
+	<keywordSet>
+		<keyword>Peaches</keyword>
+		<keyword>Plum</keyword>
+		<keyword>Fruits</keyword>
+	</keywordSet>
+</video>

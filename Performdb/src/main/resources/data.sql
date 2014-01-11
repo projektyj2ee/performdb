@@ -1,0 +1,1 @@
+-- INSERT INTO VIDEO VALUES (1, 'test', 'FRUIT_MATCH', 'rtmp://asdf.fr.24.com', SYSDATE);
